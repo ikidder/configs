@@ -1,4 +1,4 @@
-export PS1="\[\e[34m\]\u\[\e[m\]\[\e[34m\]@\[\e[m\]\[\e[34m\]\h\[\e[m\] \[\e[36m\]\w\[\e[m\] \n\[\e[33m\]\\$\[\e[m\] "
+export PS1="\[\e[34m\]\u\[\e[m\]\[\e[34m\]@\[\e[m\]\[\e[34m\]\h\[\e[m\] \[\e[36m\]\w\[\e[m\] \033[0;32m\]$(__git_ps1)    \n\[\e[33m\]\\$\[\e[m\] "
 
 alias ll='ls -Gla'
 alias python="python3"
