@@ -3,6 +3,7 @@
 **/secrets/
 **/secret/
 
+**/*history*
 **/*history*.*
 **/config.*
 
@@ -15,10 +16,15 @@
 *.priv
 **/*.priv
 
-
 **/.ssh/
 **/.aws/
 **/.env/
+
+**/.emacs.d/.emacs.desktop
+**/.emacs.d/.emacs.desktop.lock
+**/.emacs.d/.session
+**/.emacs.d/.smex-items
+**/.emacs.d/.uptimes.el
 # -*- mode: gitignore; -*-
 *~
 \#*\#
