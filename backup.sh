@@ -3,5 +3,6 @@ set -Eeuo pipefail
 
 # brings config files into the current directory for check-in
 
-cp ~/.bashrc .
-cp ~/.bash_profile .
+cp -v ~/.bashrc .
+cp -v ~/.bash_profile .
+cp -vR ~/.emacs.d .
