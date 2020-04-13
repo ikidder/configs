@@ -1,0 +1,21 @@
+# A starting point for gitignore files. Prevents secrets from being committed.
+
+**/secrets/
+**/secret/
+
+**/*history*.*
+**/config.*
+
+*.pem
+**/*.pem
+*.key
+**/*.key
+*.crt
+**/*.crt
+*.priv
+**/*.priv
+
+
+**/.ssh/
+**/.aws/
+**/.env/
