@@ -9,7 +9,7 @@
 (require 'init-fira-code-mode)
 
 (add-hook 'prog-mode-hook 'fira-code-mode)
-(add-hook 'text-mode-hook 'foo-mode)
+(add-hook 'text-mode-hook 'fira-code-mode)
 
 (provide 'init-local)
 

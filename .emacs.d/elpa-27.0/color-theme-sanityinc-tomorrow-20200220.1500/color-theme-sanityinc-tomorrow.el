@@ -118,11 +118,11 @@ executed."
              (aqua . "#99ffff")
              (blue . "#bbdaff")
              (purple . "#ebbbff")))
-    (bright . ((background . "#000000")
+    (bright . ((background . "#090909") ; original value = #000000
                (alt-background . "#151515151515")
                (current-line . "#2a2a2a")
                (selection . "#424242")
-               (foreground . "#eaeaea")
+               (foreground . "#cacaca") ; original value = #eaeaea
                (comment . "#969896")
                (red . "#d54e53")
                (orange . "#e78c45")
