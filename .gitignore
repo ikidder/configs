@@ -25,7 +25,7 @@
 **/.emacs.d/.session
 **/.emacs.d/.smex-items
 **/.emacs.d/.uptimes.el
-# -*- mode: gitignore; -*-
+**/.emacs.d/recentf# -*- mode: gitignore; -*-
 *~
 \#*\#
 /.emacs.desktop

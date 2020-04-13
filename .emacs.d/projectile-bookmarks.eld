@@ -1,0 +1,1 @@
+("~/repos/configs/" "~/repos/kamagape/" "~/.emacs.d/" "~/repos/confluent_examples/examples/")
