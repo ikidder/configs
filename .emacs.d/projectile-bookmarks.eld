@@ -1,1 +1,1 @@
-("~/.emacs.d/" "~/repos/configs/" "~/repos/kamagape/" "~/repos/confluent_examples/examples/")
+("~/repos/configs/" "~/repos/kamagape/" "~/.emacs.d/" "~/repos/confluent/examples/" "~/repos/pa-site/")
